@@ -1,0 +1,11 @@
+{
+  "name": "skills",
+  "description": "Skills pessoais para Claude Code",
+  "plugins": [
+    {
+      "name": "learning-copilot",
+      "description": "Modo de aprendizado para dev júnior — tutor, não gerador de código",
+      "path": "learning-copilot"
+    }
+  ]
+}
