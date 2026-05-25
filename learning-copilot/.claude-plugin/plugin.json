@@ -1,0 +1,8 @@
+{
+  "name": "learning-copilot",
+  "description": "Tutor de programação opt-in e configurável por nível (baixo/médio/alto/desativado) para dev júnior. Persiste estado por projeto e gera material de estudo em HTML sob comando.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Matheus"
+  }
+}

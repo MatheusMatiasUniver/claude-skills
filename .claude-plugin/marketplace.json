@@ -4,7 +4,7 @@
   "plugins": [
     {
       "name": "learning-copilot",
-      "description": "Modo de aprendizado para dev júnior — tutor, não gerador de código",
+      "description": "Tutor de programação opt-in, configurável por nível, com material de estudo em HTML",
       "path": "learning-copilot"
     }
   ]
