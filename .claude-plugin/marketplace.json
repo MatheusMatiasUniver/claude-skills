@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "learning-copilot",
-      "description": "Tutor de programação opt-in, configurável por nível, com material de estudo em HTML",
-      "path": "learning-copilot"
+      "source": "./learning-copilot",
+      "description": "Tutor de programação opt-in, configurável por nível, com material de estudo em HTML"
     }
   ]
 }
