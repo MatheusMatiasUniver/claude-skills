@@ -1,6 +1,10 @@
 {
   "name": "skills",
   "description": "Skills pessoais para Claude Code",
+  "owner": {
+    "name": "Matheus Matias",
+    "email": "matheus.maiante.dev@gmail.com"
+  },
   "plugins": [
     {
       "name": "learning-copilot",
