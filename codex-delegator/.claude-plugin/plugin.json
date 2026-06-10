@@ -1,0 +1,8 @@
+{
+  "name": "codex-delegator",
+  "description": "Orquestra delegação automática de tarefas ao Codex",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matheus"
+  }
+}

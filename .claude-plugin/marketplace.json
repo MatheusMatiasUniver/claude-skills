@@ -1,6 +1,5 @@
 {
   "name": "skills",
-  "description": "Skills pessoais para Claude Code",
   "owner": {
     "name": "Matheus Matias",
     "email": "matheus.maiante.dev@gmail.com"
@@ -10,6 +9,11 @@
       "name": "learning-copilot",
       "source": "./learning-copilot",
       "description": "Tutor de programação opt-in, configurável por nível, com material de estudo em HTML"
+    },
+    {
+      "name": "codex-delegator",
+      "source": "./codex-delegator",
+      "description": "Orquestra delegação automática de tarefas mecânicas ao Codex pra economizar tokens do Claude e reservar o raciocínio pras partes difíceis"
     }
   ]
 }
