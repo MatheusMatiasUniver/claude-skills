@@ -1,0 +1,8 @@
+{
+  "name": "session-boot",
+  "description": "Meta-skill que inicializa sessões do Claude Code ativando um conjunto de skills de uma vez — por preset nomeado ou por lista explícita de skills com parâmetros",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matheus"
+  }
+}
