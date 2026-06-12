@@ -14,6 +14,11 @@
       "name": "codex-delegator",
       "source": "./codex-delegator",
       "description": "Orquestra delegação automática de tarefas mecânicas ao Codex pra economizar tokens do Claude e reservar o raciocínio pras partes difíceis"
+    },
+    {
+      "name": "session-boot",
+      "source": "./session-boot",
+      "description": "Meta-skill que inicializa sessões ativando um conjunto de skills de uma vez — por preset nomeado ou lista explícita"
     }
   ]
 }
