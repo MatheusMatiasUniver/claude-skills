@@ -1,0 +1,8 @@
+{
+  "name": "vps-mapper",
+  "description": "Mapeia e documenta um servidor Linux/VPS inteiro em modo somente-leitura, gerando documentação markdown organizada por camada (serviços, rede, containers, storage, agendamentos, configs)",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matheus"
+  }
+}

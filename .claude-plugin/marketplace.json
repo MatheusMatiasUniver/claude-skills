@@ -19,6 +19,11 @@
       "name": "session-boot",
       "source": "./session-boot",
       "description": "Meta-skill que inicializa sessões ativando um conjunto de skills de uma vez — por preset nomeado ou lista explícita"
+    },
+    {
+      "name": "vps-mapper",
+      "source": "./vps-mapper",
+      "description": "Mapeia e documenta um servidor Linux/VPS inteiro em modo somente-leitura, gerando documentação markdown organizada por camada (serviços, rede, containers, storage, agendamentos, configs). Use SEMPRE que o usuário pedir para \"mapear o servidor\", \"documentar a VPS\", \"entender o que está rodando na máquina\", \"descobrir quais serviços/portas/containers existem\", \"me perdi na minha própria VPS\", \"fazer um inventário da infra\", ou pedir para atualizar/re-rodar a documentação de infraestrutura existente. Use também quando ele estiver debugando algo e não souber onde um serviço mora, qual porta usa ou onde os dados persistem. NÃO use para auditoria de segurança/CVEs nem para infraestrutura como código (Terraform/Ansible) — esta skill inspeciona a máquina viva."
     }
   ]
 }
